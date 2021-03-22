@@ -2,7 +2,7 @@
   "name": "dokubot",
   "version": "1.0.0",
   "description": "A discord bot that allows users to search DokuWiki that is highly configured.",
-  "main": "dokubot.js",
+  "main": "DokuBot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
