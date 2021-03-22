@@ -1,9 +1,8 @@
 // Allow access to our Env
 require('dotenv').config()
 
-// USe Unirest to make HTTP Requests - ON Dev Box, Use NO PROXY!
+// USe Unirest to make HTTP Requests 
 var unirest = require('unirest');
-process.env["NO_PROXY"] = "*";
 
 // Command Vars
 let itemArray = [];
